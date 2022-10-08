@@ -1,0 +1,20 @@
+
+echo -e "Number Entered: $2"
+pattern=$1
+
+leftPattern ()
+    echo -e "\nLeft Pattern\n"
+    for (( i=1; i<=$option; i++ ))
+        # print star the number of times = current rows done
+        do
+        done
+        done
+    done
+
+case "$1" in
+        fullPattern
+    "left") 
+    ;;
+        rightPattern
+    *) 
+esac
