@@ -47,11 +47,6 @@ int main(int argc, char const *argv[])
     fprintf(fp, "Number Of Words: %d \n", wordCount);
     fprintf(fp, "Number Of Chars: %d \n", charCount);
 
-    // while (read(0, &c, 1) > 0)
-    // {
-    //     printf("%c", c);
-    // }
-    // printf("End of parent process \n\n");
     
     
     return 0;
